@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Learn HTML",
+      "status": false
+    },
+    {
+      "title": "Learn CSS",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learn Javascript",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Learn DSA",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn mongodb",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Learn nodejs",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "learn chakrau.i",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Learn Reactj.s",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Learn Github",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Learn aws",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Learn Biotech",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "Learn Nextj.s",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "Learn vanilla",
+      "status": false,
+      "id": 13
+    },
+    {
+      "title": "Learn coding",
+      "status": false,
+      "id": 14
+    },
+    {
+      "title": "Learn useShallow",
+      "status": false,
+      "id": 15
+    },
+    {
+      "title": "Do Typescript",
+      "status": false,
+      "id": 16
+    },
+    {
+      "title": "xcvc",
+      "status": false,
+      "id": 17
+    },
+    {
+      "title": "Learn Nextjs",
+      "status": false,
+      "id": 18
+    }
+  ]
+}
